@@ -3,8 +3,6 @@ import { DateTime } from "luxon";
 const API_KEY = "5ee1d1cb2a1e0d46f72da8219d853f10";
 const BASE_URL = "https://api.openweathermap.org/data/2.5";
 
-// https://api.openweathermap.org/data/2.5/onecall?lat=48.8534&lon=2.3488&exclude=current,minutely,hourly,alerts&appid=1fa9ff4126d95b8db54f3897a208e91c&units=metric
-
 const getWeatherData = (infoType, searchParams) => {
   const url = new URL(BASE_URL + "/" + infoType);
   url.search = new URLSearchParams({ ...searchParams, appid: API_KEY });
@@ -90,7 +88,7 @@ const formatToLocalTime = (
 ) => DateTime.fromSeconds(secs).setZone(zone).toFormat(format);
 
 const iconUrlFromCode = (code) =>
-  `http://openweathermap.org/img/wn/${code}@2x.png`;
+  `https://openweathermap.org/img/wn/${code}@2x.png`;
 
 export default getFormattedWeatherData;
 
