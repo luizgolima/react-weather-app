@@ -9,10 +9,10 @@ This project was developed with the goal of providing accurate weather informati
 - Ability to switch between Celsius and Fahrenheit
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/weather-forecast.git`
+1. Clone the repository: `git clone https://github.com/luizgolima/react-weather-app.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the project: `npm run dev` or `yarn dev`
-4. Open your browser at `http://localhost:3000`
+4. Open your browser at `http://localhost:5173`
 
 ## API
 This project uses the OpenWeather API to obtain weather information. You will need an API key to use the project.
