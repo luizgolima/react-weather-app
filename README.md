@@ -27,6 +27,7 @@ This project is open to contributions. If you would like to contribute, please f
 
 ## License
 This project is licensed under the MIT license.
+[MIT LICENSE] (LICENSE)
 
 ## Credits
 - [OpenWeather API](https://openweathermap.org/)
