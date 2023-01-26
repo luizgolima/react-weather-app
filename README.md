@@ -1,4 +1,4 @@
-# Weather Forecast
+# React Weather App
 
 This project was developed with the goal of providing accurate weather information and future forecasts for any city in the world. It was built using React and Vite.
 
