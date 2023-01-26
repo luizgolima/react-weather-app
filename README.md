@@ -5,7 +5,7 @@ This project was developed with the goal of providing accurate weather informati
 ## Features
 - City search
 - Display of current temperature, humidity, wind speed, and weather condition
-- Weather forecast for the next 5 days
+- Weather forecast for the next hours and days
 - Ability to switch between Celsius and Fahrenheit
 
 ## Installation
