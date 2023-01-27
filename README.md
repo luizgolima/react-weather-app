@@ -7,6 +7,7 @@ This project was developed with the goal of providing accurate weather informati
 - Display of current temperature, humidity, wind speed, and weather condition
 - Weather forecast for the next hours and days
 - Ability to switch between Celsius and Fahrenheit
+- Background color change according to the weather
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/luizgolima/react-weather-app.git`
