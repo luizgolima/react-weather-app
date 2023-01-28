@@ -9,7 +9,7 @@ This project was developed with the goal of providing accurate weather informati
 - Ability to switch between Celsius and Fahrenheit
 - Background color change according to the weather
 
-## Installation
+## Getting Started
 1. Clone the repository: `git clone https://github.com/luizgolima/react-weather-app.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the project: `npm run dev` or `yarn dev`
