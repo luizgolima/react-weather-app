@@ -26,10 +26,15 @@ This project is open to contributions. If you would like to contribute, please f
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new pull request
 
-## License
-This project is licensed under the MIT license.
-
-## Credits
+## Built With
 - [OpenWeather API](https://openweathermap.org/)
-- [React](https://reactjs.org/)
-- [Vite](https://github.com/vitejs/vite)
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [Vite.js](https://github.com/vitejs/vite) - A build tool and development server
+
+## Author
+
+[Luiz Lima](https://github.com/[luizgolima])
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
