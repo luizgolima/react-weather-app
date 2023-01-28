@@ -30,7 +30,7 @@ This project is open to contributions. If you would like to contribute, please f
 - [OpenWeather API](https://openweathermap.org/)
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Vite.js](https://github.com/vitejs/vite) - A build tool and development server
-- [Tailwind CSS] (https://tailwindcss.com) - Utility-first CSS framework
+- [Tailwind CSS](https://tailwindcss.com) - A utility-first CSS framework
 
 ## Author
 
