@@ -17,21 +17,26 @@ function App() {
   useEffect(() => {
     const fetchWeather = async () => {
       const message = query.q ? query.q : "current location.";
+
       toast.info("Fetching weather for " + message);
+
       await getFormattedWeatherData({ ...query, units }).then((data) => {
         toast.success(
           `Successfully fetched weather for ${data.name}, ${data.country}.`
         );
+
         setWeather(data);
       });
     };
-    fetchWeather().then((r) => console.log(r));
+
+    fetchWeather().then(r => r);
   }, [query, units]);
 
   const formatBackground = () => {
     if (!weather) return "from-cyan-700 to-blue-700";
     const threshold = units === "metric" ? 20 : 60;
     if (weather.temp <= threshold) return "from-cyan-700 to-blue-700";
+
     return "from-yellow-700 to-orange-700";
   };
 
