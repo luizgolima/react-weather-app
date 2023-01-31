@@ -2,6 +2,9 @@
 
 This project was developed with the goal of providing accurate weather information and future forecasts for any city in the world. It was built using React and Vite.
 
+<img width="576" alt="weather-app-1" src="https://user-images.githubusercontent.com/110183537/215807186-d800ee9f-b029-4f12-9450-46e0c251c7ac.png">
+<img width="576" alt="weather-app-2" src="https://user-images.githubusercontent.com/110183537/215807197-07e9c885-e694-4382-b312-eefc196a6137.png">
+
 ## Features
 - City search
 - Display of current temperature, humidity, wind speed, and weather condition
