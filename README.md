@@ -1,7 +1,5 @@
 # React Weather App
-
 This app provides accurate weather information and future forecasts for any city in the world.
-
 <img width="575" alt="react-weather-app-1" src="https://user-images.githubusercontent.com/110183537/215839654-20f5e6df-2359-415a-98fc-9db173f42a31.png">
 <img width="576" alt="react-weather-app-2" src="https://user-images.githubusercontent.com/110183537/215839701-f1747b65-2f79-4cfc-bc93-c24b35ffd3b9.png">
 
@@ -30,15 +28,13 @@ This project is open to contributions. If you would like to contribute, please f
 5. Create a new pull request
 
 ## Built With
-- [OpenWeather API](https://openweathermap.org/)
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Vite.js](https://github.com/vitejs/vite) - A build tool and development server
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Tailwind CSS](https://tailwindcss.com) - A utility-first CSS framework
+- [OpenWeather API](https://openweathermap.org/)
 
 ## Author
-
 [Luiz Lima](https://github.com/[luizgolima])
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
