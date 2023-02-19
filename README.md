@@ -17,7 +17,7 @@ This app provides accurate weather information and future forecasts for any city
 4. Open your browser at `http://localhost:5173`
 
 ## API
-This project uses the OpenWeather API to obtain weather information. You will need an API key to use the project.
+This project uses the [OpenWeather](https://openweathermap.org/) API to obtain weather information. You will need an API key to use the project.
 
 ## Contribution
 This project is open to contributions. If you would like to contribute, please follow these steps:
